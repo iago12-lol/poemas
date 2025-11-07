@@ -1,0 +1,59 @@
+<!doctype html>
+
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Um ano depois</title>
+  <style>
+    :root{--bg:#07070a;--text:#ececec;--accent:rgba(255,255,255,0.06)}
+    html,body{height:100%;margin:0}
+    body{
+      background-color:var(--bg);
+      /* SVG tile com luas minguantes */
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='200' viewBox='0 0 400 200'><rect width='100%25' height='100%25' fill='none'/> <g opacity='0.12'> <circle cx='40' cy='100' r='30' fill='white'/><circle cx='52' cy='100' r='30' fill='%2307070a'/> </g> <g opacity='0.11'> <circle cx='140' cy='100' r='28' fill='white'/><circle cx='154' cy='100' r='28' fill='%2307070a'/> </g> <g opacity='0.09'> <circle cx='240' cy='100' r='26' fill='white'/><circle cx='256' cy='100' r='26' fill='%2307070a'/> </g> <g opacity='0.08'> <circle cx='340' cy='100' r='24' fill='white'/><circle cx='358' cy='100' r='24' fill='%2307070a'/> </g></svg>");
+      background-repeat: repeat;
+      background-size: 420px 200px;
+      color:var(--text);
+      font-family: Georgia, 'Times New Roman', serif;
+      -webkit-font-smoothing:antialiased;
+      display:flex;align-items:center;justify-content:center;padding:40px;
+    }
+    main{
+      max-width:720px; width:100%;
+      background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));
+      padding:36px 40px;border-radius:12px;box-shadow: 0 6px 30px rgba(0,0,0,0.6);
+      backdrop-filter: blur(4px);
+    }
+    h1{font-size:20px;margin:0 0 18px 0;letter-spacing:0.4px;font-weight:600}
+    p{margin:10px 0;line-height:1.5;font-size:16px}
+    .verse{white-space:pre-wrap}
+    .small{opacity:0.75;font-size:14px;margin-top:18px}
+    footer{margin-top:22px;opacity:0.8;font-size:13px}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Um ano depois</h1>
+    <div class="verse">
+<p>Meu mundo acabou quando o nosso amor acabou.</p><p>Me vejo perdido em vários pensamentos, e um deles é:
+— Eu poderia ter agido diferente.</p><p>Aqueles olhos claros me lembravam o céu...
+a verdadeira liberdade de amar e ser amado.</p><p>Mas, em uma noite fria, me peguei pensando:
+— Os olhos dela estão escuros. Não vejo mais a liberdade que sempre via.</p><p>Mal sabia eu que, ao amanhecer, veria de novo aqueles olhos que tanto amei.
+Se arrependimento matasse, ambos estaríamos mortos —
+eu por errar com ela, e ela por acreditar em mim.</p><p>Eu sempre questionei o que é o amor.
+Ela me mostrou que o amor é lindo, e eu mostrei que o amor também é cruel.</p><p>Conversas, risadas, brincadeiras, sorrisos, brigas, tristezas e choros...
+Me pergunto se estar longe dela é mesmo o certo.
+Pra mim, não.
+Pra ela... talvez sim.</p><p>Nunca pensei que poderia me entregar assim pra alguém —
+e como miseravelmente consegui destruir tudo.</p><p>Daqui a alguns meses, completa um ano.
+Um ano que perdi meu sorvete de morango com baunilha.
+Um ano que me vejo perdido.
+Um ano que perdi o que um dia foi meu.
+E há alguns meses,
+o que me amou... já ama outro.</p>
+    </div>
+    <footer class="small">—</footer>
+  </main>
+</body>
+</html>
