@@ -38,7 +38,7 @@
     <div class="verse">
 <p>Meu mundo acabou quando o nosso amor acabou.</p><p>Me vejo perdido em vários pensamentos, e um deles é:
 — Eu poderia ter agido diferente.</p><p>Aqueles olhos claros me lembravam o céu...
-a verdadeira liberdade de amar e ser amado.</p><p>Mas, em uma noite fria, me peguei pensando:
+a verdadeira liberdade de amar e ser amado.</p><p>Mas, em uma noite Noturna e fria, me peguei pensando:
 — Os olhos dela estão escuros. Não vejo mais a liberdade que sempre via.</p><p>Mal sabia eu que, ao amanhecer, veria de novo aqueles olhos que tanto amei.
 Se arrependimento matasse, ambos estaríamos mortos —
 eu por errar com ela, e ela por acreditar em mim.</p><p>Eu sempre questionei o que é o amor.
@@ -51,7 +51,7 @@ Um ano que perdi meu sorvete de morango com baunilha.
 Um ano que me vejo perdido.
 Um ano que perdi o que um dia foi meu.
 E há alguns meses,
-o que me amou... já ama outro.</p>
+o que me amou... já pode amar outro.</p>
     </div>
     <footer class="small">—</footer>
   </main>
